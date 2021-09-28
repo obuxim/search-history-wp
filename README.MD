@@ -9,7 +9,7 @@ https://{website.link}/wp-json/zh/v1/search-history
 Replace the `website.link` with your website. For example: `https://zubairhasan.pro/wp-json/zh/v1/search-history`
 
 ## License
-[GPL](https://choosealicense.com/licenses/gpl-3.0/)
+[GPL](https://www.gnu.org/licenses/gpl-2.0.html)
 
 ## Upcoming Features:
 - View search keywords and volumes in a table.
