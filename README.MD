@@ -10,6 +10,11 @@ Replace the `website.link` with your website. For example: `https://zubairhasan.
 
 ## License
 [GPL](https://choosealicense.com/licenses/gpl-3.0/)
+
+## Upcoming Features:
+- View search keywords and volumes in a table.
+- Alert before deactivation of the plugin.
+- Export to CSV
 ***
 ```
 NOTE: THE PLUGIN WILL DELETE THE DATABASE TABLE AND SEARCH HISTORIES IT LOGGED WHILE DEACTIVATING
